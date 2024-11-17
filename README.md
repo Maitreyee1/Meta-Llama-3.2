@@ -1,1 +1,4 @@
 # Meta-Llama-3.2
+
+This repository contains project and use cases based on usage of Meta's LLM - Llama 3.2. 
+Cooking Assitant using Llama 3.2 Python Notebook illustrates the use case of building a multimodal Generative AI application using Llama 3.2 The use case involves providing the LLM with an input image of a grocery basket with some ingredients requried for cooking a meal. Using chain of thought and prompt engineering, the model is made to generate a meal plan based on the ingredients in the image, identify missing items needed for the meal plan, count calories of the meal and finally generate recipes based on the ingredients. The project demonstrates MULTIMODALITY in LLAMA 3.2 with providing image and text as inputs, as well as illustrates chain of thought and effective prompt engineering to build generative AI applications. 
